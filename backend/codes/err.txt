@@ -1,0 +1,4 @@
+  File "codes/main.py", line 1
+    for i in range(2,100)
+                        ^
+SyntaxError: invalid syntax
